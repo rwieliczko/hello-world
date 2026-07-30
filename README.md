@@ -1,5 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# A bit About Myself
 I joined AgResearch in 2004 after completing a Master of Science (Honours) in Molecular Biology at the University of Waikato, Hamilton, New Zealand. Prior to joining AgResearch, I worked as a Research Technician with the Milk Harvesting Group on the Greenfield Project with Robotic Milking Units at Dexcel Limited (now DairyNZ) in Hamilton, New Zealand. In this role, I managed a dairy herd of 145 cows and oversaw the operation of two MERLIN robotic milking systems on a 43-hectare research farm.
 During my career at AgResearch, I held a range of scientific positions, progressing from Senior Technician to Senior Research Associate within molecular biology laboratories. In 2020, I relocated from Hamilton to Palmerston North while continuing my work with AgResearch. In 2024, I was appointed Pilot Plant Manager at the Te Rourou facility in Palmerston North, New Zealand.
 On 1 July 2025, AgResearch became part of the New Zealand Institute for Bioeconomy Science, trading as the Bioeconomy Science Institute Māiangi Taiao (BSI), where I continue to contribute to research and innovation in the bioeconomy sector.
